@@ -1,6 +1,7 @@
 {
   "name": "digital-clock",
   "private": true,
+  "homepage": "https://yaseenamir001.github.io/Digital-Clock",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
